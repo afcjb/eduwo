@@ -1,0 +1,25 @@
+.header-gradient {
+  background: -webkit-linear-gradient(to right, #0a50aa, #1888d5);
+  background: linear-gradient(to right, #0a50aa, #1888d5);
+  height: 60;
+  width: 100%;
+}
+
+.gradient {
+  background: -webkit-linear-gradient(to right, #0a50aa, #1888d5);
+  background: linear-gradient(to right, #0a50aa, #1888d5);
+}
+
+.footer-styles {
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  font-weight: bold;
+}
+
+#searchBar {
+  border: none;
+  width: 80%;
+  height: 100%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
