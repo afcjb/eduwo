@@ -1,4 +1,4 @@
-import React, { Component, createContext } from "react";
+import React, { Component } from "react";
 import AppBar from "./AppBar";
 import ImageContainer from "./ImageContainer";
 import Pagination from "./Pagination";
